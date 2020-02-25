@@ -16,7 +16,7 @@ A `.bib` file containing the references used in the statement can be found in `/
 
 # Instructions
 
-To goal of the coding notebook is to clean your `.bib` file to only contain references that you have cited in your manuscript. This cleaned `.bib` will then be used to generate a data table of full first names that will be used to query the probabilistic gender classifier, [Gender API](https://gender-api.com). Proportions of the predicted gender for first and last author pairs (male/male, male/female, female/male, and female/female) will be calculated. 
+The goal of the coding notebook is to clean your `.bib` file to only contain references that you have cited in your manuscript. This cleaned `.bib` will then be used to generate a data table of full first names that will be used to query the probabilistic gender classifier, [Gender API](https://gender-api.com). Proportions of the predicted gender for first and last author pairs (male/male, male/female, female/male, and female/female) will be calculated. 
 
 1. Obtain a `.bib` file of your manuscript's reference list. You can do this with common reference managers. 
 
